@@ -6,5 +6,6 @@ You may also check the [specifications](https://mirror.general-ai-challenge.org/
 
 Note that this project uses [NetMQ](https://github.com/zeromq/netmq/blob/master/README.md) to communicate to the AI environment.
 
-The code is uploaded AS IT WAS delivered to the challenge. 
-Note that due to time constraints and due to the prototyping nature of the challenge, the code is not necessarily as clean as I would have liked it to be.
+The code in the [Source folder](https://github.com/andresdelcampo/aichallenge1/tree/master/Source) is uploaded AS IT WAS delivered to the challenge with the exception of adding license and cleaning up the solution of extra files. It was developed in C# under Windows. Note that due to time constraints and due to the prototyping nature of the challenge, the code is not necessarily as clean as I would have liked it to be.
+
+You can also find an agent already compiled in Learner.zip, which can be tested using the [Environment Instructions](https://github.com/general-ai-challenge) against the training task set included -or any evaluation set created separately.
