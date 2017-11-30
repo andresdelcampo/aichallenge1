@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLearner", "CSLearner\CSLearner.csproj", "{75E490B6-54F5-4482-99E1-2A091B22BED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLearnerLib", "CSLearnerLib\CSLearnerLib.csproj", "{8A0B021E-4FA9-43E7-B223-87362CBB31C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSLearnerUnitTests", "CSLearnerUnitTests\CSLearnerUnitTests.csproj", "{8D365347-0B25-426C-97C5-0E42404DA0A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E490B6-54F5-4482-99E1-2A091B22BED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E490B6-54F5-4482-99E1-2A091B22BED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E490B6-54F5-4482-99E1-2A091B22BED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E490B6-54F5-4482-99E1-2A091B22BED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0B021E-4FA9-43E7-B223-87362CBB31C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0B021E-4FA9-43E7-B223-87362CBB31C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0B021E-4FA9-43E7-B223-87362CBB31C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0B021E-4FA9-43E7-B223-87362CBB31C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D365347-0B25-426C-97C5-0E42404DA0A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D365347-0B25-426C-97C5-0E42404DA0A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D365347-0B25-426C-97C5-0E42404DA0A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D365347-0B25-426C-97C5-0E42404DA0A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
